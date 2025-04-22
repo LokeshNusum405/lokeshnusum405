@@ -17,7 +17,7 @@ I'm passionate about leveraging cutting-edge technologies to build scalable and 
   - MBA in Data Science (CGPA: 9.1/10)  
 - **Core Skills**: React JS, Spring Boot, Azure OpenAI, Power BI, Python, Docker, Kubernetes, Flask  
   
-🌐 [LinkedIn](https://linkedin.com/in/lokeshnusum) | 🌟 [Portfolio Projects Below](#portfolio-projects)    
+<!-- 🌐 [LinkedIn](https://linkedin.com/in/lokeshnusum) | 🌟 [Portfolio Projects Below](#portfolio-projects)    -->
   
 ---  
   
